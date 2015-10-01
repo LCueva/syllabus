@@ -39,13 +39,13 @@ These apply to real life, as well.
 * Bonus points for:
     * Creativity (as long as requirements are fulfilled)
 
-## Pairing Tips
+### Pairing Tips
 
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
 * Make sure to save the project and send it to both people
 
-## Grading
+### Grading
 
 * Class Participation (10%)
 * Homework (50%)
@@ -76,17 +76,13 @@ Reading: Chapter 5. Project proposal is due by the end of Thursday class.
 #### Homework (Due by 3:30pm 11/3/15)
 Chapter 5 Do-it-Yourself
 
-### [Week 5](https://github.com/uw-phys434-fall15/week5)
-#### Homework (Due by 11/10/15)
+### [Week 5](https://github.com/uw-phys434-fall15/week5) (due by 3:30pm 11/10/15)
 
-### [Week 6](https://github.com/uw-phys434-fall15/week6)
-#### Homework (Due by 11/17/15)
+### [Week 6](https://github.com/uw-phys434-fall15/week6) (due by 3:30pm 11/17/15)
 
-### [Week 7](https://github.com/uw-phys434-fall15/week7)
-#### Homework (Due by 11/29/15)
+### [Week 7](https://github.com/uw-phys434-fall15/week7) (due by 3:30pm 11/24/15)
 
-### [Week 8](https://github.com/uw-phys434-fall15/week8)
-#### Homework (Due by 12/1/15)
+### [Week 8](https://github.com/uw-phys434-fall15/week8) (due by 3:30pm 12/1/15)
 
 ## [Class Project](/finalproject.md)
 It can be either individual or with a lab partner. If you collaborate, it should be clear who is responsible for which part. Talk to Durmus and Toby if you need an idea for your project. [Here](/finalproject.md#previous-projects) is a list of old project suggestions. Before starting your project you will prepare a design document. [Here](http://1drv.ms/1tlsS5E) is an example design document. This document is a simplified version of [IEEE-1066](http://en.wikipedia.org/wiki/Software_design_description).
