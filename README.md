@@ -22,7 +22,9 @@ These are usually two-person partnerships. It should be written and submitted as
 ### Workflow
 1. To start, [**fork** the repository](https://guides.github.com/activities/forking/) for the current exercise/project ([github.com/uw-phys434-fall15](https://github.com/uw-phys434-fall15))
 1. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
-1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
+1. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution. Note that
+   if use you the git commit command without the -m"comment", it will open the vi editor. You can type in the comment, then
+  \<esc\>:x\<enter\> see http://www.lagmonster.org/docs/vi.html
 1. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
 1. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request) on the original repository to turn in the assignment. You can continue to push fixes and improvements until the due date.
 
