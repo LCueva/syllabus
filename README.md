@@ -8,6 +8,9 @@
 * **Need help?**
    * Look through and create [issues](https://github.com/uw-phys434-fall15/syllabus/issues)
    * Email [Durmus](mailto:ukaratay@uw.edu) or [Toby](mailto:tburnett@uw.edu) for 1-on-1 help, or to set up a time to meet
+* **Lab availablity** 
+  * B280 is available to 434 students to use free workstations while Chem 464 is using the room, M 12:30=1:20 and TTh 8:30-2:20
+  * At other times, check with one of us for access.
 
 ## Course Description
 
