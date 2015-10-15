@@ -5,7 +5,7 @@
 * **Text:** Hands-On Introduction to LabVIEW for Scientists and Engineers, John Essick [Amazon](http://www.amazon.com/Hands--Introduction-LabVIEW-Scientists-Engineers/dp/0199925151/)
 [U Bookstore](http://sdb.admin.washington.edu/textbooks/query.asp?qtr=Autumn&sln=19673)
 * **Software:** [Labview 2015](http://www.engr.washington.edu/mycoe/computing/software/install_labview) 
-    __Note__: if you install it on your own computer, get the 32-bit version, and [download the MathScript module](#Download Mathscript).
+    __Note__: if you install it on your own computer, get the 32-bit version, and [download the MathScript module](/Download Mathscript.pdf).
 * **Need help?**
    * Look through and create [issues](https://github.com/uw-phys434-fall15/syllabus/issues)
    * Email [Durmus](mailto:ukaratay@uw.edu) or [Toby](mailto:tburnett@uw.edu) for 1-on-1 help, or to set up a time to meet
