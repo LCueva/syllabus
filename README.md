@@ -78,11 +78,12 @@ Reading: Chapter 4. Problems 4.2, 4.4 and 4.6 are due by the end of Thursday cla
 Chapter 4 Do-it-Yourself
 
 ### [Week 4](https://github.com/uw-phys434-fall15/week4)
-Reading: Chapter 5. Project proposal is due by the end of Thursday class.
+Reading: Chapter 5.
 #### Homework (Due by 3:30pm 11/3/15)
 Chapter 5 Do-it-Yourself
 
 ### [Week 5](https://github.com/uw-phys434-fall15/week5) (due by 3:30pm 11/10/15)
+Project proposal is due by the end of Thursday class.
 
 ### [Week 6](https://github.com/uw-phys434-fall15/week6) (due by 3:30pm 11/17/15)
 
